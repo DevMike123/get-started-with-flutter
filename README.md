@@ -1,6 +1,6 @@
-# first_app
+# Getting Started With Flutter
 
-A new Flutter project.
+A new Flutter project containing all the basic files and folders required to create a basic application using Flutter!
 
 ## Getting Started
 
